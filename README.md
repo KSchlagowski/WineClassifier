@@ -7,7 +7,7 @@ Academic project using different algorithms to classify color of wine.
 </div>
 
 <p align="center">
-  <img width="460" height="300" src="![alt_text](https://github.com/KSchlagowski/WineClassifier/blob/master/Images/Chart1.png)">
+  <img width="460" height="300" src=![alt_text](https://github.com/KSchlagowski/WineClassifier/blob/master/Images/Chart1.png)>
 </p>
 
 <>![alt_text](https://github.com/KSchlagowski/WineClassifier/blob/master/Images/Chart2.png)<>
