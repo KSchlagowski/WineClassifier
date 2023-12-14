@@ -5,6 +5,8 @@ This is an academic project in which we try to classify color of wine using mach
 
 The Python code and full description can be found in the file [Wine Classifier Notebook.ipynb](https://github.com/KSchlagowski/WineClassifier/blob/master/Wine%20Classifier%20Notebook.ipynb).
 
+Raw data can be found under [winequalityN.csv](https://github.com/KSchlagowski/WineClassifier/blob/master/winequalityN.csv).
+
 <p align="center">
   <img src="https://github.com/KSchlagowski/WineClassifier/blob/master/Images/Chart1.png" alt="Chart 1"/>
 </p>
